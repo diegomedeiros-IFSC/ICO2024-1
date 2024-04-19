@@ -4,3 +4,4 @@ Este eh o arquivo README.md
 
 Fazendo uma nova alteração no arquivo.
 Alteracao LOCAL
+Alteracao remota
